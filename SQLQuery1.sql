@@ -1,0 +1,1 @@
+Select * FroM inVoices;
